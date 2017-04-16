@@ -83,9 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/marwenhlaoui/laravel-zero">Documentation</a> 
-                    <a href="http://blog.marwenhlaoui.me">Blog</a>
-                    <a href="http://marwenhlaoui.me">Marwen Hlaoui</a> 
+                    <a href="{{route('mail')}}">Send mail</a> 
                 </div>
             </div>
         </div>
